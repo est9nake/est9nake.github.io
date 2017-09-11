@@ -2,8 +2,8 @@
 
 *后台:
     ·上传文档[File]
-    ·文档分类并设定提取码[Exc](Extract code)
-    ·录入用户白名单[WList](White list)
+    ·文档分类并设定提取码[ExC](Extract Code)
+    ·录入用户白名单[WList](White List)
 
 *前台：
     ·验证用户
